@@ -1,6 +1,6 @@
-## scientific-computing-with-python
+# scientific-computing-with-python
 
-# Disclaimer:
+## Disclaimer:
 
 The code and content provided in this project, which are part of the FreeCodeCamp certification program, are intended solely for educational purposes and should not be copied or used for the purpose of completing your own certification projects. 
 
